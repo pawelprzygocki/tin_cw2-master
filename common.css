@@ -1,0 +1,31 @@
+@import "screen.css";
+@import "print.css";
+
+body {
+ padding-left: 14em;
+	font-family: Georgia, "Verdana", Times, serif;
+	color: #C0C0C0;
+	background-color: black
+}
+
+article section {
+  padding-left: 3em;
+}
+
+
+
+ol.books {
+	list-style-type: upper-roman;
+}
+
+.tytul	{
+	font-style: italic;
+}
+.autor	{
+	font-variant: small-caps;
+}
+
+/*footer {
+  margin-top: 2em;
+  border-top: 1px solid #156711;
+}*/
